@@ -2,6 +2,8 @@
 
 <img align="right" alt="Khd's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khddev&theme=dark&show_icons=true&hide_border=true" />
 
+<p><a href="https://github.com/khddev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khddev&amp;layout=compact " alt="Top Langs"></a></p></div> 
+
 - 💻 I am a young student and I live in France.
 - 🔩 I love developed
 
