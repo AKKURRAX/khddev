@@ -10,7 +10,7 @@
 ---
 
 ## 🚩 Projects:
-- [XletterBot <img src="https://i.imgur.com/4jAKXjt.png" width="24"/>](https://xletter-bot.com)
+- [Hyphus Project <img src="https://i.imgur.com/b995rXy.png" width="24"/>](https://huphus-bot.com)
 - [FortniteFrance <img src="https://www.fortnite-france.fr/wp-content/themes/fortniteFrance/assets/images/esports/logo.png" width="24"/>](https://www.fortnite-france.fr/)
 
 ---
